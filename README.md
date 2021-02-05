@@ -1,0 +1,2 @@
+# sdl1_point_click_adventure_game-depecrated-
+sdl1_point_click_adventure_game(depecrated)
